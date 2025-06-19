@@ -21,7 +21,7 @@ Meus estudos são organizados por etapas e aplicados em projetos pessoais — bu
 - 👨‍💻 **Java (POO, Lógica, Servlets e Tomcat)**
 - 🌐 HTML + CSS (site pessoal hospedado com GitHub Pages)
 - 🔐 Fundamentos de Segurança da Informação
-- 📚 Redes de Computadores (A. S. Tanenbaum)
+- 📚 Redes de Computadores
 
 ---
 
@@ -55,7 +55,7 @@ Meus estudos são organizados por etapas e aplicados em projetos pessoais — bu
 
 ## ✨ O que estou buscando
 
-- Ingressar em uma equipe de **SOC ou Suporte Técnico Nível 2**
+- Ingressar em uma equipe de **SOC ou Suporte Técnico Nível 1**
 - Aplicar minha experiência investigativa em **análise de incidentes e segurança defensiva**
 - Continuar crescendo na carreira com propósito e consistência
 
