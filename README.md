@@ -1,68 +1,84 @@
 # 👋 Olá! Eu sou o Gabriel Viana
 
-🎯 **Em transição para a área de Segurança da Informação**  
-💼 Atualmente trabalho como Controlador de Estoques, atuando com SAP e controle de estoque  
+🎯 **Em transição para a área de Redes e Infraestrutura**  
+🛜 Construindo meu próprio laboratório corporativo: **PROJETO ATTALUS**  
+💼 Atualmente: Controlador de Estoques (SAP / investigação de inconsistências)  
 📍 Brasil | 🌐 github.com/gabrielmviana  
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um profissional **analítico, meticuloso e focado em resolver problemas com profundidade**. Tenho experiência em processos industriais, controle de materiais e investigação de inconsistências sistêmicas no SAP.
+Sou um profissional **analítico, disciplinado e orientado à resolução de problemas**.  
+Minha experiência atual envolve:
 
-Nos últimos meses, iniciei uma transição consciente para o setor de **Tecnologia da Informação**, com foco em **Segurança da Informação (Blue Team / SOC)** e, futuramente, **Threat Intelligence**.
+- análise e investigação de inconsistências no SAP  
+- controle de materiais em ambiente industrial  
+- comunicação clara e foco em processos  
+- tomada de decisão baseada em evidências  
 
-Meus estudos são organizados por etapas e aplicados em projetos pessoais — busco sempre entender o "porquê" por trás da tecnologia.
+Agora, migro estrategicamente para **Tecnologia da Informação**, com foco em:
 
----
+- **Suporte Técnico em TI**  
+- **Infraestrutura de Redes**  
+- **Administração de Ambientes Corporativos**  
 
-## 🚀 Em aprendizado
-
-- 👨‍💻 **Java (POO, Lógica, Servlets e Tomcat)**
-- 🌐 HTML + CSS (site pessoal hospedado com GitHub Pages)
-- 🔐 Fundamentos de Segurança da Informação
-- 📚 Redes de Computadores
-
----
-
-## 📌 Características do meu perfil
-
-- 🧩 **Perfil Cognitivo**: reflexivo, estruturado, autodidata
-- 💬 **Comunicação**: clara, objetiva, colaborativa
-- ⚙️ **Tecnologia**: autônomo, curioso, pragmático
-- 🎯 **Decisão**: realista, disciplinado, persistente
-- 💡 **Valores**: autenticidade, aprendizado contínuo e propósito
+Meu objetivo é unir minha experiência investigativa com práticas reais de TI — construindo, documentando e aprendendo com um homelab corporativo completo.
 
 ---
 
-## 🧪 Projetos em andamento
+## 🚀 Em aprendizado (foco atual)
 
-- `site-pessoal-java`: Construção de um site com backend em Java + Servlets
-- `sistema-cadastro`: Aplicação Java simples com interface gráfica para cadastro de usuários
-- `matrix-css`: Página com visual inspirado no estilo "Matrix", desenvolvida com HTML + CSS
+- 🛜 Redes de Computadores (Modelos, VLANs, Routing, Firewall)  
+- 🖥️ Windows Server + Administração básica  
+- 🧱 Linux (Ubuntu/Debian) para servidores e serviços  
+- 📦 Virtualização (VirtualBox / Proxmox futuramente)  
+- 🎛️ Mikrotik — (RouterOS, Firewall, NAT, VLANS)  
+- 📝 Documentação técnica e boas práticas corporativas  
 
 ---
 
-## 🛠️ Tecnologias que venho utilizando
+## 🧪 Projetos Atuais
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### 🟦 **PROJETO ATTALUS**  
+Um laboratório corporativo completo, simulando a infraestrutura de uma empresa fictícia.  
+Inclui:
+
+- topologias de rede  
+- servidores  
+- documentação técnica  
+- práticas de segurança  
+- organização e padronização corporativa  
+
+🔗 Repositório: *em estruturação no momento*  
+
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=flat&logo=routeros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-306BAC?style=flat&logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=black)
 
 ---
 
 ## ✨ O que estou buscando
 
-- Ingressar em uma equipe de **SOC ou Suporte Técnico Nível 1**
-- Aplicar minha experiência investigativa em **análise de incidentes e segurança defensiva**
-- Continuar crescendo na carreira com propósito e consistência
+- Oportunidade como **Suporte Técnico N1** e **Analista de Infra Jr**  
+- Ambiente onde eu possa evoluir tecnicamente e contribuir com estrutura  
+- Aplicar minhas habilidades de investigação em operações de TI e Segurança  
+- Crescimento contínuo nas áreas de **Redes** e **Infraestrutura**
 
 ---
 
-📫 **Vamos conversar?**  
-Me chame via [LinkedIn](https://www.linkedin.com/in/gabrielmviana) ou abra uma issue por aqui mesmo.  
+## 📫 Vamos conversar?
 
+📌 LinkedIn: https://www.linkedin.com/in/gabrielmviana  
+📌 GitHub: github.com/gabrielmviana  
 
--->
+Fique à vontade para abrir uma issue, trocar ideias ou colaborar em algum projeto!
+
