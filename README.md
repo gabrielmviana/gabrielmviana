@@ -2,7 +2,7 @@
 
 🎯 **Em transição para a área de Redes e Infraestrutura**  
 🛜 Construindo meu próprio laboratório corporativo: **PROJETO ATTALUS**  
-💼 Atualmente: Controlador de Estoques (SAP / investigação de inconsistências)  
+💼 Atualmente: Controlador de Estoques | Estudante de Segurança da Informação na Fatec Araraquara
 📍 Brasil | 🌐 github.com/gabrielmviana  
 
 ---
@@ -23,7 +23,7 @@ Agora, migro estrategicamente para **Tecnologia da Informação**, com foco em:
 - **Infraestrutura de Redes**  
 - **Administração de Ambientes Corporativos**  
 
-Meu objetivo é unir minha experiência investigativa com práticas reais de TI — construindo, documentando e aprendendo com um homelab corporativo completo.
+Meu objetivo é unir minha experiência investigativa com práticas reais de TI, construindo, documentando e aprendendo com um homelab corporativo completo.
 
 ---
 
@@ -31,8 +31,8 @@ Meu objetivo é unir minha experiência investigativa com práticas reais de TI 
 
 - 🛜 Redes de Computadores (Modelos, VLANs, Routing, Firewall)  
 - 🖥️ Windows Server + Administração básica  
-- 🧱 Linux (Ubuntu/Debian) para servidores e serviços  
-- 📦 Virtualização (VirtualBox / Proxmox futuramente)  
+- 🧱 Linux para servidores e serviços  
+- 📦 Virtualização  
 - 🎛️ Mikrotik — (RouterOS, Firewall, NAT, VLANS)  
 - 📝 Documentação técnica e boas práticas corporativas  
 
