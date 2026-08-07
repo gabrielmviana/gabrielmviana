@@ -10,7 +10,7 @@
 
 ## 🧠 Sobre mim
 
-Profissional com perfil **analítico e orientado à resolução de problemas**, com experiência em ambiente industrial trabalhando com SAP — investigando inconsistências, analisando dados operacionais e garantindo a continuidade de processos críticos.
+Profissional com perfil **analítico e orientado à resolução de problemas**, com experiência em ambiente industrial trabalhando com SAP, investigando inconsistências, analisando dados operacionais e garantindo a continuidade de processos críticos.
 
 Atualmente em transição para **Tecnologia da Informação**, aplicando essa base analítica em:
 
