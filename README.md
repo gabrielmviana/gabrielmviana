@@ -4,7 +4,7 @@
 🛜 Homelab corporativo ativo — **Projeto ATTALUS**  
 🔍 Foco em troubleshooting, redes e suporte técnico
 
-📌 [LinkedIn](https://www.linkedin.com/in/gabrielmviana) · [GitHub](https://github.com/gabrielmviana)
+📌 [LinkedIn](https://www.linkedin.com/in/gabrielmviana)
 
 ---
 
