@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2600&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=650&height=70&lines=GABRIEL+VIANA;Estudante+de+Seguranca+da+Informacao;Capitao+do+Core+Team+-+AWS+User+Group;Infra+.+Redes+.+Seguranca&repeat=true)](https://github.com/gabrielmviana)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2600&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=750&height=70&lines=GABRIEL+VIANA;Estudante+de+Seguranca+da+Informacao;Capitao+do+Core+Team+-+AWS+User+Group;Infra+.+Redes+.+Seguranca&repeat=true)](https://github.com/gabrielmviana)
 
 ---
 
