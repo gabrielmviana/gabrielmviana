@@ -2,7 +2,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1400&pause=900999&color=00FF41&background=000000&center=true&vCenter=true&width=300&height=35&lines=%3E+whoami&repeat=false)](https://github.com/gabrielmviana)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1400&pause=900999&color=00FF41&background=000000&center=true&vCenter=true&width=450&height=35&lines=%3E+whoami&repeat=false)](https://github.com/gabrielmviana)
 
 Estudante de Segurança da Informação — FATEC Araraquara<br>
 Capitão do Core Team — AWS User Group<br>
