@@ -10,7 +10,7 @@ Experiência prática com SAP, redes e infraestrutura
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1400&pause=900999&color=00FF41&background=000000&center=true&vCenter=true&width=300&height=35&lines=%3E+cat+sobre.txt&repeat=false)](https://github.com/gabrielmviana)
 
-Gosto de construir coisas e conhecimento desde a base — seja montando um PC peça por peça, seja um laboratório de rede rodando no meu quarto.<br>
+Gosto de construir coisas e conhecimento desde a base, seja montando um PC peça por peça, seja um laboratório de rede rodando no meu quarto.<br>
 Gosto de entender como cada coisa funciona e sempre busco um fluxo pra associar o funcionamento das coisas.<br>
 Fora do terminal, sou apaixonado pelo universo de Tolkien.<br>
 Sou metódico, questionador, e com paciência pra ir devagar quando o assunto vale a pena.
