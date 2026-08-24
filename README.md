@@ -19,11 +19,11 @@ Experiência prática com SAP, redes e infraestrutura<br>
 > cat sobre.txt
 ```
 
-Gosto de construir coisas e conhecimento desde a base,<br>
-seja montando um PC peça por peça ou seja um laboratório de rede rodando no meu quarto.<br>
+Gosto de construir coisas e conhecimento desde a base, seja montando um PC peça por peça ou seja um<br>
+laboratório de rede rodando no meu quarto.<br>
 Gosto de entender como cada coisa funciona e sempre busco um fluxo pra associar o funcionamento das coisas.<br>
 Fora do terminal, sou apaixonado pelo universo de Tolkien.<br>
-Sou metódico, questionador, e com paciência pra ir devagar quando o assunto vale a pena.<br>
+Sou metódico, questionador, e com paciência pra ir devagar quando o assunto vale a pena.
 
 ---
 
