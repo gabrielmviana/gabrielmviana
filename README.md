@@ -11,19 +11,19 @@
 > whoami
 ```
 
-Estudante de Segurança da Informação — FATEC Araraquara
-Capitão do Core Team — AWS User Group
-Experiência prática com SAP, redes e infraestrutura
+Estudante de Segurança da Informação — FATEC Araraquara<br>
+Capitão do Core Team — AWS User Group<br>
+Experiência prática com SAP, redes e infraestrutura<br>
 
 ```
 > cat sobre.txt
 ```
 
-Gosto de construir coisas e conhecimento desde a base,
-seja montando um PC peça por peça ou seja um laboratório de rede rodando no meu quarto.
-Gosto de entender como cada coisa funciona e sempre busco um fluxo pra associar o funcionamento das coisas.
-Fora do terminal, sou apaixonado pelo universo de Tolkien.
-Sou metódico, questionador, e com paciência pra ir devagar quando o assunto vale a pena.
+Gosto de construir coisas e conhecimento desde a base,<br>
+seja montando um PC peça por peça ou seja um laboratório de rede rodando no meu quarto.<br>
+Gosto de entender como cada coisa funciona e sempre busco um fluxo pra associar o funcionamento das coisas.<br>
+Fora do terminal, sou apaixonado pelo universo de Tolkien.<br>
+Sou metódico, questionador, e com paciência pra ir devagar quando o assunto vale a pena.<br>
 
 ---
 
@@ -31,8 +31,8 @@ Sou metódico, questionador, e com paciência pra ir devagar quando o assunto va
 > ./attalus --info
 ```
 
-Homelab corporativo onde simulo redes, servidores e infraestrutura
-como se fosse uma empresa real. Documentação completa no repositório:
+Homelab corporativo onde simulo redes, servidores e infraestrutura<br>
+como se fosse uma empresa real. Documentação completa no repositório:<br>
 
 `>> github.com/gabrielmviana/attalus-tecnologia`
 
@@ -68,8 +68,8 @@ como se fosse uma empresa real. Documentação completa no repositório:
 > echo $CONTRIBUTING
 ```
 
-Se quiser trocar ideia, colaborar ou tiver sugestões, abra uma issue
-ou envie um pull request.
+Se quiser trocar ideia, colaborar ou tiver sugestões, abra uma issue<br>
+ou envie um pull request.<br>
 
 ---
 
